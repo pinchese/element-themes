@@ -2,6 +2,7 @@
 	"name": "Solarized Light",
 	"is_dark": false,
 	"colors": {
+		"primary-color": "#fdf6e3",
 		"username-colors": [
 			"#b58900",
 			"#cb4b16",
@@ -22,6 +23,5 @@
 			"#2aa198",
 			"#859900"
 		]
-		"primary-color": "#fdf6e3"
 	}
 }
