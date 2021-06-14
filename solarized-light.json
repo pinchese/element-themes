@@ -2,6 +2,9 @@
 	"name": "Solarized Light",
 	"is_dark": false,
 	"colors": {
-		"primary-color": "#fdf6e3"
+		"primary-color": "#fdf6e3",
+		"sidebar-color": "#eee8d5",
+		"accent-color": "#859900",
+		"warning-color": "#dc322f"
 	}
 }
