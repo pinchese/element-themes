@@ -19,10 +19,12 @@
 		"timeline-highlights-color": "#f3f8fd",
 		
 		"username-colors": [
-			"#ff0000"
+			"#ff0000",
+			"#7289da"
 		],
 		"avatar-background-colors": [
-			"#cc0000"
+			"#cc0000",
+			"#7289da"
 		]
 	}
 }
